@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "mitt": "^3.0.0",
+    "tiny-emitter": "^2.1.0"
+  }
+}
