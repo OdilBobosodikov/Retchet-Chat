@@ -2,7 +2,7 @@ Run on the base folder:
 ```
 php -S localhost:x 
 ```
-Where x is any socket except 8080<br />
+Where x is any port except 8080<br />
 Then:
 ```
 php server.php
